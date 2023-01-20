@@ -1,4 +1,4 @@
-# Timeline
+# 타임라인
 
 The timeline displays [notes](.note) in reverse chronological order.
 There are different types of timelines as shown below, and the notes displayed differ depending on the type.

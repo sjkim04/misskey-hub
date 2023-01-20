@@ -1,4 +1,4 @@
-# Online Status
+# 온라인 상태
 A user's **online status** is an indication of their Misskey usage status.
 Your online status is displayed as an indicator in the corner of the user icon on your user page and elsewhere.
 

@@ -1,4 +1,4 @@
-# Reaction
+# 반응
 This feature allows you to easily convey your reactions to other people's notes by adding emojis.
 To react in Misskey Web, click the + icon on the note to show the picker and select an emoji.
 You can also react using [custom emoji](./custom-emoji.md).

@@ -1,72 +1,72 @@
-# Charts
+# 차트
 
-Misskey can generate and display charts for an instance's various federated data sources.
-Charts allow you to get a visual depiction of the usage, federation status, and activity of each user.
+Misskey는 인스턴스의 여러 데이터 소스로부터 차트릉 만들어 표시할 수 있습니다.  
+차트를 통해 사용량, 연합 상태, 그리고 각 사용자의 활동을 시각적으로 확인할 수 있습니다.
 
-Instance charts can be viewed from the *instance information* page (accessible by clicking the instance logo in the navigation menu).
+인스턴스의 차트는 _인스턴스 정보_ 페이지에서 볼 수 있습니다. (네비게이션 메뉴의 인스턴스 로고를 눌러보세요)
 
-Below is a description of each chart and its contents.
+아래는 각 차트의 설명과 그 내용입니다.
 
-## Federation Chart
+## 연합 차트
 
-This chart shows information about federated instances.
+이 차트는 연합한 인스턴스에 관한 정보를 표시합니다.
 
 ### Pub
 
-The number of instances that this instance is publishing activities to.
+이 인스턴스가 활동을 전송하고 있는 인스턴스 수입니다.
 
 ### Sub
 
-The number of instances that this instance is receiving activities from.
+이 인스턴스가 활동을 수신하고 있는 인스턴스 수입니다.
 
 ### Received
 
-The number of instances that have sent an activity to this instance.
+이 인스턴스로 활동을 전송한 인스턴스의 수입니다.
 
 ### Delivered
 
-The number of instances that this instance has delivered an activity to.
+이 인스턴스로부터 활동을 전송받은 인스턴스의 수입니다.
 
 ### Stalled
 
-The number of instances where an error was encountered when delivering an activity.
+활동의 전송 과정에서 오류가 발생한 인스턴스의 수입니다.
 
-## Active Users Chart
+## 활성 사용자 차트
 
-Chart of user activity on this instance.
+이 인스턴스의 사용자 활동 차트입니다.
 
 ### Read & Write
 
-The number of users that have read and written.
+사용자가 읽고 쓴 수입니다.
 
 ### Read
 
-The number of users that have read.
+사용자가 읽은 수입니다.
 
 ### Write
 
-The number of users that have written.
+사용자가 쓴 수입니다.
 
 ### < Week
 
-The number of users with an account less than one week old.
+1주 이내에 생성된 계정의 수입니다.
 
 ### < Month
 
-The number of users with an account less than one month old.
+1개월 이내에 생성된 계정의 수입니다.
 
 ### < Year
 
-The number of users with an account less than one year old.
+1년 이내에 생성된 계정의 수입니다.
 
 ### > Week
 
-The number of users with an account older than one week.
+생성 후 1주 이상 경과한 계정의 수입니다.
 
 ### > Month
 
-The number of users with an account older than one month.
+생성 후 1개월 이상 경과한 계정의 수입니다.
 
 ### > Year
 
-The number of users with an account older than one year.
+생성 후 1년 이상 경과한 계정의 수입니다.

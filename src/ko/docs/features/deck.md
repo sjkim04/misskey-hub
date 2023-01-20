@@ -1,4 +1,4 @@
-# Deck UI
+# 덱 UI
 
 Deck UI is one of the available UIs in Misskey. It is characterized by the ability to build highly customizable and informative UIs by displaying multiple views, called "columns", side by side.
 The deck option is only available on sufficiently large screens like a laptop computer.

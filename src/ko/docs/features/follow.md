@@ -1,4 +1,4 @@
-# Follow
+# 팔로우
 
 When you follow a user, you will see their posts on your home timeline; however, their replies to other users will not be included.
 

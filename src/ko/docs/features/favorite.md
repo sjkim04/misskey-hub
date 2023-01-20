@@ -1,4 +1,4 @@
-# Favorites
+# 즐겨찾기
 
 This function allows you to mark a [note](./note) as a favorite.
 You can view your favorited notes on the [Favorite](./my/favorites) page.

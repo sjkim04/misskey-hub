@@ -1,4 +1,4 @@
-# Muting and Blocking
+# 뮤트 및 차단
 If you don't like a user, you can mute them to make them disappear from your timelines.
 Alternatively, you can block a user to prevent them from seeing your content or engaging with you in any way.
 People won't know that you have muted them, but they will know that you have blocked them. It is up to you to decide which option you prefer.

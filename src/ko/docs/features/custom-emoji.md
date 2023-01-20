@@ -1,7 +1,8 @@
-# Custom Emoji
-Custom Emojis are a feature that allows you to use any image provided by your instance as an emoji.
-You can use them in places like notes, reactions, chat, your profile, your name, etc.
-To use a custom emoji in one of those places, press the emoji picker button (if available) or type `:` to display emoji suggestions.
-If a string of the form `:foo:` is found in the text, the `foo` part will be interpreted as a custom emoji name and it will be replaced by the corresponding custom emoji when displayed.
+# 커스텀 이모지
 
-You can see which custom emojis are available on your instance by visiting `/emojis` on Misskey Web.
+커스텀 이모지는 인스턴스에서 제공되는 이미지를 이모지로 활용할 수 있도록 하는 기능입니다.  
+노트, 반응, 채팅, 프로필, 이름 등등에 사용할 수 있습니다.  
+커스텀 이모지를 사용하려면 (가능한 경우) 이모지 선택기를 누르거나 `:`을 입력해 이모지 추천을 표시하세요.  
+텍스트에서 `:foo:`가 확인되면, `foo` 부분이 커스텀 이모지 이름으로 인식되어 적절한 이모지로 변환됩니다.
+
+Misskey 웹 클라이언트에서 `/emojis`를 방문해 가능한 커스텀 이모지 목록을 확인할 수 있습니다.

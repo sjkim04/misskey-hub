@@ -1,4 +1,4 @@
-# Drive
+# 드라이브
 Drive is a feature that allows you to manage your files on Misskey.
 
 ::: 팁

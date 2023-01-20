@@ -1,4 +1,4 @@
-# Theme
+# 테마
 
 You can change the look and feel of the Missky client by applying a theme.
 
